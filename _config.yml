@@ -14,14 +14,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: I AM CODING !
+title: CODE BROUSSE
+subtitle: Un développeur à la campagne...
 email: air1bzz@gmail.com
 description: >
   Bienvenue sur mon blog.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /blog # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: air1bzz
-github_username:  air1bzz
+# twitter_username: air1bzz
+github_username: air1bzz
 lang: fr
 author: Erwan Morvan
 timezone: Europe/Paris
