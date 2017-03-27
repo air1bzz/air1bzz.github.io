@@ -211,12 +211,12 @@ PLATFORMS
   x86-mswin32
 
 DEPENDENCIES
-  github-pages (= 129)
+  github-pages
   jekyll-feed (~> 0.6)
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.3.0p0
+   ruby 2.4.0p0
 
 BUNDLED WITH
    1.14.6
