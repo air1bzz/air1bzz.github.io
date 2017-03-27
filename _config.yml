@@ -19,7 +19,7 @@ subtitle: Un développeur à la campagne...
 email: air1bzz@gmail.com
 description: >
   Bienvenue sur mon blog.
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: air1bzz
 github_username: air1bzz
